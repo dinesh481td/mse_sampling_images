@@ -11,7 +11,7 @@ The script depends on the following Python libraries:
 - os
 
 You can install these dependencies using pip:
-
+  pip install -r requirements.txt
 
 ## Usage
 
