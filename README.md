@@ -13,7 +13,7 @@ The script depends on the following Python libraries:
 You can install these dependencies using pip:
 ```bash
 pip install -r requirements.txt
-
+```
 
 ## Usage
 
